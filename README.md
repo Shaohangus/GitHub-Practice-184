@@ -46,7 +46,7 @@
 | Kendall Tigue     | Scranton, PA (USA)   | kendall-tigue      | https://github.com/kendall-tigue/kendall |
 | Sumedh Kabe       | Bangalore, India     | Sumedh Kabe         |  https://github.com/SumedhKabe/GitHub-Practice-184
 | Parag Patel       | Reading, PA          | pzp5254            | https://github.com/pzp5254/STAT-184       |
-
+| Shaohang Chen     | Fuzhou, China        | Shaohangus          | https://github.com/Shaohangus/Epic-Awesomesauce |
 
 # Integrating Git and RStudio
 
